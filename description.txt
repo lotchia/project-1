@@ -1,0 +1,14 @@
+NAMES:-
+-sandy maged shaker
+-rana essam
+-lotchia mokhlis
+-salma alsayed soliman
+
+PROJECT:-
+searchig for the gifts.
+
+DESCRIPTION:-
+enter number of cards you want and click on click button
+and click on cards to get your gift 
+when you have a gift will tell you number of steps to win
+and to play again click on play again button.
